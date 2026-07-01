@@ -1,1 +1,1 @@
-# edublock
+# eduverse
